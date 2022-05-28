@@ -30,3 +30,5 @@ In addition to a variety of products designed by others, Studio 8502 is in the p
 - Open platform with full expansion bus
 - Optional mechanical keyboard
 - Simple-to-use GPIO "user port" for custom hardware and peripherals
+
+AESIR is currently in prototyping, but on release, full schematics and Gerber files will be made available under an open license, and kits and premade versions will be for sale on our Tindie store.
