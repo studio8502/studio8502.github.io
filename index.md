@@ -39,7 +39,7 @@ The WME64 is a ZiModem-based modem emulator for the Commodore C64, C128, and VIC
 
 ### Custom C64 Cartridges
 
-We also make custom ROM cartridges for the C64; these can contain any number of single-load .PRG files, up to a total of 1024KB, booting the C64 into a menu to select which file gets loaded into memory and run. These cartridges come in a custom-designed 3D printed case, with a large, full-colour label designed by the customer. 
+We also make custom ROM cartridges for the C64; these can contain any number of single-load .PRG files, up to a total of 1024KB, booting the C64 into a menu to select which file gets loaded into memory and run. These cartridges come in a custom-designed 3D printed case, with a large, full-colour label designed by the customer.
 
 ### Third-Party Products
 
