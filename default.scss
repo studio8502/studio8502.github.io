@@ -159,6 +159,22 @@ body {
 			text-indent: 4em;
 			padding-top: 0em;
 		}
+
+		ul {
+			background-color: #adadad;
+			color: #626262;
+			font-size: 10pt;
+			padding: 1em;
+			text-align: left;
+
+			li {
+				list-style-type: "* ";
+			}
+
+			li::marker {
+				font-size: 8pt;
+			}
+		}
 	}
 
 	footer {
