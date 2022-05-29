@@ -280,6 +280,10 @@ body {
 	body {
 		width: 30em !important;
 		left: 0em !important;
+
+		section.bio {
+			display: none !important;
+		}
 	}
 
 }
