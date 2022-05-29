@@ -276,7 +276,9 @@ body {
 
 
 @media all and (max-width: 800px) {
-	h1 {
-		color: $black !important;
+	
+	body {
+		width: 30em;
 	}
+
 }
