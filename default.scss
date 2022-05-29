@@ -100,12 +100,11 @@ ul {
 }
 
 li { 
-	list-style-type: "*";
+	list-style-type: "* ";
 	margin-bottom: 4pt;
 }
 
 li::marker {
   font-family: "C64";
   font-size: 8pt;
-  margin-right: 6pt;
 }
