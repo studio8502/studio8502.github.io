@@ -59,4 +59,10 @@ table {
 
 h1 {
 	font-size: 36pt;
+	font-weight: bold
+}
+
+h1 ~ h2 {
+	font-size: 12pt;
+	font-weight: normal;
 }
