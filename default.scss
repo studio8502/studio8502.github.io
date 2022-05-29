@@ -72,6 +72,8 @@ body {
 	position: relative;
 	width: 50em;
 	min-width: 50em;
+	margin-top: 5em;
+	margin-bottom: 5em;
 	margin-left: auto;
 	margin-right: auto;
 	background-color: #50459b;
@@ -81,6 +83,7 @@ body {
 
 	header {
 		margin-bottom: 20pt;
+		color: #ffffff;
 
 		h1 {
 			text-align: center;
@@ -102,11 +105,13 @@ body {
 		border-color: red;
 
 		h2 {
+			color: #ffffff;
 			font-size: 24pt;
 		}
 
 		section.bio {
 			h3 {
+				color: #ffffff;
 				font-size: 20pt;
 				text-align: right;
 			}
