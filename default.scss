@@ -73,11 +73,11 @@ html {
 }
 
 body {
-	min-width: 50em !important;
-	max-width: 50%;
+	width: 50%;
+	margin-left: auto;
+	margine-right: auto;
 	border-style: solid;
 	border-width: 1px;
 	border-color: red;
-	margin: 10px;
 	background-color: lightblue;
 }
