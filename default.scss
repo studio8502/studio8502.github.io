@@ -64,8 +64,27 @@ table {
 
 // Now we can do the basics.
 
+// Colours from the C64's palette
+$black: #000000;
+$white: #ffffff;
+$red: #9f4e44;
+$cyan: #6abfc6;
+$purple: #a057a3;
+$violet: #a057a3;
+$green: #5cab5e;
+$blue: #50459b;
+$yellow: #c9d487;
+$orange: #a1683c;
+$brown: #6d5412;
+$lightRed: #cb7e75;
+$darkGrey: #626262;
+$grey: #898989;
+$lightGreen: #9ae29b;
+$lightBlue: #887ecb;
+$lightGrey:#adadad;
+
 html {
-	background-color: #887ecb;
+	background-color: $lightBlue;
 }
 
 body {
@@ -77,13 +96,13 @@ body {
 	margin-bottom: 2em;
 	margin-left: auto;
 	margin-right: auto;
-	background-color: #50459b;
+	background-color: $blue;
 	padding: 12pt;
 	font-family: "C64";
-	color: #adadad;
+	color: $lightGrey;
 
 	header {
-		color: #000000;
+		color: $black;
 		padding-bottom: 12pt;
 		background-image: url("/banner.jpeg");
 		background-size: 100% auto;
@@ -110,28 +129,28 @@ body {
 		padding-right: 1em;
 		padding-top: 1em;
 		padding-bottom: 0em;
-		background-color: #50459b;
+		background-color: $blue;
 
 		h2 {
 			text-align: center;
-			background-color: #50459b;
-			color: #ffffff;
+			background-color: $blue;
+			color: $white;
 			font-size: 16pt;
 			padding-bottom: 8pt;
 		}
 
 		section.bio {
 			h3 {
-				color: #adadad;
+				color: $lightGrey;
 				font-size: 12pt;
 				text-align: center;
 				padding-top: 8pt;
 				padding-bottom: 8pt;
-				background-color: #626262;
+				background-color: $darkGrey;
 			}
 			p {
-				background-color: #adadad;
-				color: #626262;
+				background-color: $lightGrey;
+				color: $darkGrey;
 				font-size: 10pt;
 				padding: 1em;
 				text-align: left;
@@ -144,26 +163,26 @@ body {
 	section#content {
 
 		h1 {
-			color: #adadad;
+			color: $lightGrey;
 			font-size: 14pt;
 			text-align: center;
 			padding-top: 8pt;
 			padding-bottom: 8pt;
 			margin-top: 1em;
-			background-color: #626262;
+			background-color: $darkGrey;
 		}
 
 		p {
 			text-indent: 0em;
-			background-color: #adadad;
-			color: #626262;
+			background-color: $lightGrey;
+			color: $darkGrey;
 			font-size: 12pt;
 			padding: 1em;
 			text-align: justify;
 			line-height: 150%;
 
 			a, a:visited, a:active {
-				color: #50459b;
+				color: $blue;
 				text-decoration: underline;
 			}
 
@@ -178,8 +197,8 @@ body {
 		}
 
 		ul {
-			background-color: #adadad;
-			color: #626262;
+			background-color: $lightGrey;
+			color: $darkGrey;
 			font-size: 12pt;
 			padding-left: 7em;
 			padding-right: 8em;
@@ -193,7 +212,7 @@ body {
 				padding-bottom: .5em;
 
 				a, a:visited, a:active {
-					color: #50459b;
+					color: $blue;
 					text-decoration: underline;
 				}
 
@@ -210,18 +229,18 @@ body {
 
 	footer {
 		h2 {
-			color: #adadad;
+			color: $lightGrey;
 			font-size: 12pt;
 			text-align: center;
 			padding-top: 8pt;
 			padding-bottom: 8pt;
 			margin-top: 1em;
-			background-color: #626262;
+			background-color: $darkGrey;
 		}
 		
 		ul {
-			background-color: #adadad;
-			color: #626262;
+			background-color: $lightGrey;
+			color: $darkGrey;
 			font-size: 10pt;
 			padding-top: 1em;
 			padding-bottom: 1em;
@@ -232,7 +251,7 @@ body {
 				padding-left: 2em;
 				padding-right: 2em;
 				a, a:visited, a:active {
-					color: #50459b;
+					color: $blue;
 					text-decoration: underline;
 				}
 			}
@@ -242,7 +261,7 @@ body {
 			margin-top: 1em;
 			text-align: center;
 			font-size: 9pt;
-			color: #ffffff;
+			color: $white;
 		}
 	}
 }
