@@ -125,6 +125,7 @@ p {
 }
 
 h2#contact-us + ul {
+	display: block;
 	text-align: center;
 	margin: 0;
 }
@@ -132,4 +133,6 @@ h2#contact-us + ul {
 h2#contact-us + ul li {
 	display: inline;
 	margin: 0;
+	margin-left: 12pt;
+	margin-right: 12pt;
 }
