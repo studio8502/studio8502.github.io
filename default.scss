@@ -144,7 +144,9 @@ body {
 		
 		ul {
 			li {
-
+				a, a:visited, a:active {
+					color: #ffffff;
+				}
 			}
 		}
 	}
