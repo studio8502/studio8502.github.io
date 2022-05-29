@@ -148,10 +148,16 @@ body {
 
 		p {
 			text-indent: 0em;
+			background-color: #adadad;
+			color: #626262;
+			font-size: 10pt;
+			padding: 1em;
+			text-align: justify;
 		}
 
 		p + p {
 			text-indent: 4em;
+			padding-top: 0em;
 		}
 	}
 
