@@ -2,11 +2,6 @@
 
 ## Retrocomputing Designers and Makers
 
-## Contact Us
-- [Twitter](https://twitter.com/Studio8502)
-- [Mastodon](https://oldbytes.space/web/@mos_8502)
-- [Tindie Store](https://www.tindie.com/stores/studio8502/)
-
 ## Who Are We?
 
 ### Kyle J Cardoza
@@ -46,3 +41,8 @@ We also make custom ROM cartridges for the C64; these can contain any number of 
 ### Third-Party Products
 
 We also make and sell products designed by others where licenses permit. See our Tindie store for what's available at present, as the inventory changes often.
+
+## Contact Us
+- [Twitter](https://twitter.com/Studio8502)
+- [Mastodon](https://oldbytes.space/web/@mos_8502)
+- [Tindie Store](https://www.tindie.com/stores/studio8502/)
