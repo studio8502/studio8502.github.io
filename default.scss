@@ -101,7 +101,7 @@ body {
 	font-family: "C64";
 	color: $lightGrey;
 
-	header {
+	header#main-header {
 		color: $white;
 		padding-bottom: 12pt;
 		background-image: url("/banner.jpeg");
@@ -227,7 +227,7 @@ body {
 		}
 	}
 
-	footer {
+	header#contact-us {
 		h2 {
 			color: $lightGrey;
 			font-size: 12pt;
