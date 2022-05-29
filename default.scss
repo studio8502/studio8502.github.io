@@ -64,70 +64,14 @@ table {
 
 // Now we can do the basics.
 
+html {
+	border-width: 1px;
+	border-color: red;
+	margin: 10px;
+}
+
 body {
-	padding-top: 36pt;
-	padding-left: 20%;
-	padding-right: 30%;
-	padding-bottom: 16px;
-	font-family: "C64";
-}
-
-header h1 {
-	text-align: center;
-	font-family: "C64";
-	font-size: 64pt;
-	font-weight: bold;
-	margin-bottom: 3pt;
-}
-
-header p {
-	margin-top: 16pt;
-	margin-bottom: 8pt;
-	margin-bottom: 24pt;
-	text-align: center;
-	font-weight: normal;
-	font-size: 19.85pt;
-}
-
-section#content h2 {
-	text-align: center;
-	font-size: 16pt;
-	margin-top: 8pt;
-	margin-bottom: 8pt;
-}
-
-section#content ul {
-	margin-top: 8pt;
-	margin-bottom: 8pt;
-	margin-left: 24pt;
-}
-
-section#content li { 
-	margin-left: 24pt;
-  	font-family: "C64";
-	font-size: 12pt;
-	list-style-type: "* ";
-	margin-bottom: 6pt;
-}
-
-section#content li::marker {
-  font-family: "C64";
-  font-size: 10pt;
-}
-
-section#content p {
-	font-size: 12pt;
-}
-
-footer ul {
-	display: block;
-	text-align: center;
-	margin: 0;
-}
-
-footer li {
-	display: inline;
-	margin: 0;
-	margin-left: 12pt;
-	margin-right: 12pt;
+	border-width: 1px;
+	border-color: red;
+	margin: 10px;
 }
