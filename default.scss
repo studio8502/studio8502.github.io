@@ -82,6 +82,7 @@ body {
 	border-color: red;
 	background-color: lightblue;
 	padding: 12pt;
+	font-family: "C64";
 
 	header {
 
@@ -101,7 +102,6 @@ body {
 	section#content {
 		p {
 			text-indent: 4em;
-			font-family: "C64";
 		}
 		p+p {
 			text-indent: 0em;
