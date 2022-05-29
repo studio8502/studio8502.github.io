@@ -5,7 +5,7 @@ Studio 8502 is in the process of developing a 65816-compatible open hardware com
 - [WDC W65C265S](https://www.westerndesigncenter.com/wdc/w65c265s-chip.php) CPU, clocked at a *minimum* of 8MHz
 - 512KB or more of RAM
 - 512KB or more of flash ROM
-- SD Card support
+- SD Card support (FAT32 is currently planned)
 - Custom [FabGL](http://www.fabglib.org)/ESP32-based graphics engine designed for retrogaming
 - SNES controller support
 - Open platform with full expansion bus
