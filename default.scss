@@ -82,4 +82,42 @@ body {
 	border-color: red;
 	background-color: lightblue;
 	padding: 12pt;
+
+	header {
+
+	}
+
+	section#bios {
+		section.bio {
+			h3 {
+
+			}
+			p {
+
+			}
+		}
+	}
+
+	section#content {
+		p {
+			text-indent: 4em;
+			font-family: "C64";
+		}
+		p+p {
+			text-indent: 0em;
+		}
+
+	}
+
+	footer {
+		h2 {
+
+		}
+		
+		ul {
+			li {
+
+			}
+		}
+	}
 }
