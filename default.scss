@@ -107,16 +107,17 @@ ul {
 }
 
 li { 
+  	font-family: "C64";
 	list-style-type: "* ";
 	margin-bottom: 6pt;
 }
 
 li::marker {
   font-family: "C64";
-  font-size: 16pt;
+  font-size: 10pt;
 }
 
 p {
 	font-family: "C64";
-	font-size: 16pt;
+	font-size: 14pt;
 }
