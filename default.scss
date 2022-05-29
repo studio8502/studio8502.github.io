@@ -79,19 +79,16 @@ header h1 {
 	margin-bottom: 3pt;
 }
 
-h2 {
-	text-align: center;
-	font-family: "C64";
-	font-size: 16pt;
-	font-weight: normal;
+header p {
 	margin-top: 16pt;
 	margin-bottom: 8pt;
+	margin-bottom: 24pt;
+	text-align: center;
+	font-family: "C64";
+	font-weight: normal;
+	font-size: 19.85pt;
 }
 
-h1 + h2 {
-	font-size: 19.85pt;
-	margin-bottom: 24pt;
-}
 
 h3 {
 	text-align: center;
