@@ -55,6 +55,13 @@ table {
 	border-spacing: 0;
 }
 
+// Let's have a custom C64 style font
+@font-face {
+  font-family: "C64";
+  src: url("/C64_Pro-STYLE.woff2") format("woff2"),
+       url("/C64_Pro-STYLE.woff") format("woff");
+}
+
 // Now we can do the basics.
 
 body {
@@ -64,6 +71,7 @@ body {
 }
 
 h1 {
+	font-family: "C64";
 	font-size: 36pt;
 	font-weight: bold
 }
