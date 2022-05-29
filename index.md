@@ -18,7 +18,7 @@ Becky has been fascinated by computers since seeing a TRS-80 Model I at a Radio 
 
 Studio 8502 is in the process of developing a 65816-compatible open hardware computer design, which will be available as both a DIY solderable kit and as a pre-assembled factory-made product. AESIR's basic architecture is as follows:
 
-- WDC W65C265S CPU clocked at a minimum of 8MHz
+- WDC W65C265S CPU, clocked at a minimum of 8MHz
 - 512KB or more of RAM
 - 512KB or more of flash ROM
 - SD Card support
