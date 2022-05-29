@@ -278,7 +278,7 @@ body {
 @media all and (max-width: 800px) {
 	
 	body {
-		width: 20em !important;
+		max-width: 20em !important;
 		left: 1em !important;
 
 		section#bios {
