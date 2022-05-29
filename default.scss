@@ -65,13 +65,13 @@ table {
 // Now we can do the basics.
 
 body {
-	margin-top: 36pt;
-	margin-left: 20%;
-	margin-right: 30%;
+	padding-top: 36pt;
+	padding-left: 20%;
+	padding-right: 30%;
 	padding-bottom: 16px;
 }
 
-h1 {
+header h1 {
 	text-align: center;
 	font-family: "C64";
 	font-size: 64pt;
@@ -101,13 +101,13 @@ h3 {
 	margin-top: 8pt;
 }
 
-ul {
+section#content ul {
 	margin-top: 8pt;
 	margin-bottom: 8pt;
 	margin-left: 24pt;
 }
 
-li { 
+section#content li { 
 	margin-left: 24pt;
   	font-family: "C64";
 	font-size: 12pt;
@@ -115,23 +115,23 @@ li {
 	margin-bottom: 6pt;
 }
 
-li::marker {
+section#content li::marker {
   font-family: "C64";
   font-size: 10pt;
 }
 
-p {
+section#content p {
 	font-family: "C64";
 	font-size: 12pt;
 }
 
-h2#contact-us + ul {
+footer ul {
 	display: block;
 	text-align: center;
 	margin: 0;
 }
 
-h2#contact-us + ul li {
+footer li {
 	display: inline;
 	margin: 0;
 	margin-left: 12pt;
