@@ -8,7 +8,7 @@
 
 Kyle has been in retrocomputing since he was a child. He enjoys coming up with new ways to use old hardware, not giving a toss about whatever the new hotness is in technology, and making cool things.
 
-### Becky Buckingham
+### Rebecca Buckingham
 
 Becky has been fascinated by computers since seeing a TRS-80 Model I at a Radio Shack in 1978.  She is also interested in musical electronics.
 
