@@ -376,6 +376,52 @@ body {
 	}
 }
 
+@media all and (max-width: 678px) {
+	
+	body {
+		width: 31em !important;
+		min-width: 0px !important;
+		left: 0em !important;
+		padding-left: 1em !important;
+		padding-right: 1em !important;
+
+		header#main-header {
+			h1 {
+				font-size: 37pt !important;
+			}
+
+			p {
+				font-size: 11pt !important;
+			}
+		}
+
+		section#bios {
+			display: none !important;
+		}
+
+		section#content {
+			p {
+				font-size: 12pt;
+			}
+
+			ul {
+				padding-left: 4em;
+				padding-right: 4em;
+			}
+		}
+
+		header#contact-us {
+			ul {
+				li {
+					padding-left: 0em !important;
+					padding-right: 0em !important;
+				}
+			}
+		}
+	}
+}
+
+
 @media all and (max-width: 639px) {
 	
 	body {
