@@ -73,7 +73,7 @@ html {
 }
 
 body {
-	position:absolute;
+	position: relative;
 	width: 50em;
 	min-width: 50em;
 	margin-left: auto;
@@ -108,7 +108,8 @@ body {
 
 		section.bio {
 			h3 {
-
+				font-size: 20pt;
+				text-align: right;
 			}
 			p {
 
