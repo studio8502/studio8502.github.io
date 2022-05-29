@@ -101,12 +101,12 @@ body {
 
 	section#content {
 		p {
-			text-indent: 4em;
-		}
-		p+p {
 			text-indent: 0em;
 		}
 
+		p + p {
+			text-indent: 4em;
+		}
 	}
 
 	footer {
