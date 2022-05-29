@@ -86,11 +86,14 @@ h2 {
 }
 
 ul {
+	margin-top: 8pt;
+	margin-bottom: 8pt;
 	margin-left: 24pt;
 }
 
 li { 
 	list-style-type: "*";
+	margin-bottom: 4pt;
 }
 
 li::marker {
