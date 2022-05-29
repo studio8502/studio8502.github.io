@@ -162,6 +162,11 @@ body {
 
 	section#content {
 
+		h1 {
+			position: absolute;
+			display: none;
+		}
+
 		h2 {
 			color: $lightGrey;
 			font-size: 14pt;
