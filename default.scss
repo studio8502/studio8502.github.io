@@ -275,7 +275,7 @@ body {
 }
 
 
-@media (device-width: 800px) {
+@media all (max-width: 800px) {
 	h1 {
 		color: $black;
 	}
