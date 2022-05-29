@@ -275,7 +275,7 @@ body {
 }
 
 
-@media all and (max-width: 800px) {
+@media all and (device-width: 800px) {
 	
 	body {
 		width: 42em !important;
@@ -307,7 +307,7 @@ body {
 	}
 }
 
-@media all and (max-width: 600px) {
+@media all and (device-width: 600px) {
 	
 	body {
 		width: 35em !important;
@@ -340,7 +340,7 @@ body {
 	}
 }
 
-@media all and (max-width: 1080px) {
+@media all and (device-width: 1080px) {
 	
 	body {
 		width: 60em !important;
