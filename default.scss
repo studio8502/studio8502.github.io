@@ -73,7 +73,8 @@ html {
 }
 
 body {
-	width: 50%;
+	position:absolute;
+	width: 50em;
 	min-width: 50em;
 	margin-left: auto;
 	margin-right: auto;
@@ -99,6 +100,12 @@ body {
 	}
 
 	section#bios {
+		position:absolute;
+		width: 15em;
+		border-style: solid;
+		border-width: 1px;
+		border-color: red;
+
 		section.bio {
 			h3 {
 
