@@ -69,6 +69,7 @@ body {
 	padding-left: 20%;
 	padding-right: 30%;
 	padding-bottom: 16px;
+	font-family: "C64";
 }
 
 header h1 {
@@ -84,18 +85,8 @@ header p {
 	margin-bottom: 8pt;
 	margin-bottom: 24pt;
 	text-align: center;
-	font-family: "C64";
 	font-weight: normal;
 	font-size: 19.85pt;
-}
-
-
-h3 {
-	text-align: center;
-	font-family: "C64";
-	font-size: 12pt;
-	margin-bottom: 8pt;
-	margin-top: 8pt;
 }
 
 section#content ul {
@@ -118,7 +109,6 @@ section#content li::marker {
 }
 
 section#content p {
-	font-family: "C64";
 	font-size: 12pt;
 }
 
