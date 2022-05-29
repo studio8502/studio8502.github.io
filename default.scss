@@ -153,11 +153,13 @@ body {
 			font-size: 10pt;
 			padding: 1em;
 			text-align: justify;
+			margin-top: 1em;
 		}
 
 		p + p {
 			text-indent: 4em;
 			padding-top: 0em;
+			margin-top: 0em;
 		}
 	}
 
