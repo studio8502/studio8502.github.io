@@ -1,4 +1,6 @@
-# Welcome to Studio 8502
+# Studio 8502
+
+## Retrocomputing Designers and Makers
 
 ## Contact Us
 - [Twitter](https://twitter.com/Studio8502)
