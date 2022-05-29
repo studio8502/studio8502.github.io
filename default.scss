@@ -88,3 +88,11 @@ h2 {
 ul {
 	margin-left: 24pt;
 }
+
+li { 
+	list-style-type: "*";
+}
+
+li::marker {
+  font-family: "C64";
+}
