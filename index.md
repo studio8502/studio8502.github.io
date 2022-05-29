@@ -11,7 +11,7 @@ Studio 8502 is in the process of developing a 65816-compatible open hardware com
 - Custom [FabGL](http://www.fabglib.org)/ESP32-based graphics engine designed for retrogaming
 - SNES controller support
 - Open platform with full expansion bus
-- Optional mechanical keyboard 
+- Optional mechanical keyboard
 - Simple-to-use GPIO "user port" for custom hardware and peripherals
 
 AESIR is currently in the early stages of prototyping, but on release, full schematics and Gerber files will be made available under an open license, and kits and premade versions will be for sale on our Tindie store.
