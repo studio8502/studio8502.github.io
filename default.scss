@@ -282,6 +282,12 @@ body {
 		min-width: 0px !important;
 		left: 0em !important;
 
+		header#main-header {
+			h1 {
+				font-size: 40pt;
+			}
+		}
+
 		section#bios {
 			display: none !important;
 		}
